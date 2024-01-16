@@ -1,25 +1,38 @@
-# 🚀 !WaRp SpEeD EnGaGeD! 🌌
+# 🚀 ![Voyager Emoji] !WaRp Schwifty Code Bender !WaRp ![Galaxy Emoji] - Git-Schwifty Version
 
-## 🤖 h3ll0 w0rld pr0g3n1t0r
-Gree+1ngs, c0d3-w!3ld!nG sorcerer! I am a <\> w1z4rd, summun!ng algor!thm$ fr0m the a$tral p1anes. My 0rig!n st0ry !nv0lves a caf+e!nated en(c0unt3r w!th a t!m3-trav3l!ng h3dgehog & a parallel un!v3rse wh3r3 rubber ducks g0v3rn the la^2$ of phys!c$
+## 👽 Ab0uT MeH
+🌈 H3ll0, int3rgalact!c ent!ty! I'm a perpetually caffeinated cyborg, part-time unicorn whisperer, and a connoisseur of quantum bubblegum. My origin story involves a salsa-dancing octopus and a cosmic disco ball that grants wishes on alternate Wednesdays. Did I mention I'm Rick freaking Sanchez?
 
-## 🛸 cURr3nT m!$$!0n
-⚡ NaV!g@t!ng th3 qu@ntum fo@m of code-$p@ce, dec!pher!ng the cosm!c $ynt@x to unveil th3 $ecr3ts of the !lu$!v3 "H3ll0 W0rld" !n 27 d!m3ns!0ns. No ord!n@ry m0rtal shall compr3h3nd th3 !ntr!c@c!e$ of my Git-fu.
+## 🔥 Curr3nt Obs3ss!0ns
+🍍 Collect!ng rare sporks, mastering the art of interpretative dance with flamingos, and developing a universal translator for conversations with sentient avocados. Also, I believe pineapples belong on pizza in all dimensions. Schwifty, right?
 
-## 🎩 M@g!c $pell$
+## 🚁 Extrat3rrestrial Adventur3s
+👾 Survived a zorblatt attack in the 9th dimension, rode a stardust-powered hoverboard through the rings of Saturn, and once played hide-and-seek with dark matter – I'm still searching. Oh, and I did it all with a portal gun in hand.
+
+## 🧁 S3cr3t Sk!ll
 ```bash
-$ sUd0 npm !nst@ll -g l3v!t@t!ng-c@t$
-$ g!t c0mm!t -m "Abr@c@dabra! 🧙‍♂️"
+$ sudo npm install -g levitating-cupcakes
+$ invoke secret_skill --with-sprinkles
+$ sudo npm install -g portal-gun
+$ portal --to=wacky-adventures
+$ sudo npm install -g levitating-cats
+$ git commit -m "Abracadabra! 🧙‍♂️"
 
-🤔 4ch!evements
-🌌 $ucc3$$fully merg3d c0nfl!ct!ng parallel real!t!es !nto a $!ngl3 branch w!thout caus!ng a temp0r@l r!ft. Al$0, 0nc3 ref@c+t0r3d th3 c0d3 $0 effic!3ntly, !t mad3 th3 Matr!x je@l0u$
+🎭 R@nd0m M0tto
+"In a universe full of quarks, be a gluon." - Anonymous Particle Philosopher, or was it me in another timeline?
 
+🚀 Hyp3rsp@ce C@t@lyst
+🌌 Experimenting with hyper-dimensional catnip, because nothing gets a space kitty higher than that. Also, bubble baths teleportation – because regular baths are for Jerry.
+
+🌮 T4c0 Tu3sd@ys
+Every Tuesday, I throw intergalactic taco parties on the moon. Moon salsa and anti-gravity guacamole included. RSVP with your favorite constellation, and let's get Schwifty!
+
+Feel free to join me on this cosmic rollercoaster where wormholes are slides, and the universe is one giant ball pit. Cheers to chaos, laughter, and utterly bewildering adventures! Wubba Lubba Dub Dub! 🌌🌮🚀
+
+🤖 C0d3-W!z4rdry & Qu@ntum Fu$!0n
 def unRAv3l_3n1gma():
     # Y0ur gu3$$ !$ @s g00d @s mine
     p@$$
-
-🎭 R@nd0m Qu0t3
-"!n a w0rld of !f $tat3m3nt$, b3 th3 $w!tch c@se." - !n0m!n@t0r Ph!l0$oph3r fr0m th3 8th d!m3n$!0n.
 
 🌌 WaRp Dr!ve $t@tus
 🔧 CuRr3ntly 0vercl0ck!ng the flux capac!t0rs. Br@c3 y0urself f0r a qu@ntum l3@p !n c0de $0ph!$t!cat!0n.
